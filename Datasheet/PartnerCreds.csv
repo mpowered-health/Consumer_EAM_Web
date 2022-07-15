@@ -1,0 +1,15 @@
+Partner,Username,Password,Ele_username,Ele_password,Ele_Login
+My Medicare,BBUSER17315,PW17315!,//input[@id='username-textbox'],//input[@id='password-textbox'],//button[@id='login-button']
+Cigna,syntheticuser02,5ynthU5er2,//input[@id='username'],//input[@id='password'],"//button[contains(text(),'Log In')]"
+Humana,HUser00004,PW00004!,//input[@id='username'],//input[@id='password'],"//button[contains(text(),'Sign in')]"
+Blue Cross and Blue Shield of Minnesota,MNDEPT1234,Minnesota@12345,//input[@id='ui-core-login-username'],//input[@id='ui-core-login-password'],"//button[contains(text(),'Log In')]"
+United Health Care,AmithaArun,Test12345,//input[@id='userNameId_input'],//input[@id='passwdId_input'],//input[@id='SignIn']
+Clover Health,Lara,Lara2020,//input[@id='Username'],//input[@id='Password'],//button[@id='login-button']
+Magellan Health,TestUser01,Password_1,//input[@id='inputUsername'],//input[@id='inputPassword'],"//button[contains(text(),'Login')]"
+Anthem,CMSPatient2,CMSPatient2018,//input[@id='Username'],//input[@id='Password'],//button[@id='login-button']
+Veteran Affairs,va.api.user+idme.101@gmail.com,Password1234!,//input[@id='user_email'],//input[@id='user_password'],//body/div[1]/div[1]/div[1]/form[1]/main[1]/div[4]/input[1]
+Elder Plan, ElderplanTest1,Test123,//input[@id='inputUsername'],//input[@id='inputPassword'],"//button[contains(text(),'Login')]"
+Independent Blue cross,Demohello1758,Ptkewx09,//input[@id='mat-input-0'],//input[@id='mat-input-1'],//body/app-root[1]/member-portal[1]/div[1]/div[1]/div[4]/form[1]/input[4]
+Scan Health,Tester240,DigitalInterOps1*1,,,
+Aetna,aetnaTestUser2,FHIRdemo2020,//input[@id='username'],//input[@id='password'],//button[@id='loginButton']
+UPMC,robertamcc,Webteam21!,,,
